@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\Kata-SquareDigits\Kata-SquareDigits\bin\Debug\Kata-SquareDigits.exe.config
+C:\Users\Yasin\source\repos\Kata-SquareDigits\Kata-SquareDigits\bin\Debug\Kata-SquareDigits.exe
+C:\Users\Yasin\source\repos\Kata-SquareDigits\Kata-SquareDigits\bin\Debug\Kata-SquareDigits.pdb
+C:\Users\Yasin\source\repos\Kata-SquareDigits\Kata-SquareDigits\obj\Debug\Kata-SquareDigits.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\Kata-SquareDigits\Kata-SquareDigits\obj\Debug\Kata-SquareDigits.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\Kata-SquareDigits\Kata-SquareDigits\obj\Debug\Kata-SquareDigits.exe
+C:\Users\Yasin\source\repos\Kata-SquareDigits\Kata-SquareDigits\obj\Debug\Kata-SquareDigits.pdb
